@@ -1,0 +1,64 @@
+Altium Designer Pick and Place Locations
+C:\Users\Simen\OneDrive\Documents\NTNU\V2021\PillCam\Master\Altium\EvaluationBoard_NanEyeC_BackScatter\Project Outputs for EvaluationBoard_NanEyeC_BackScatter\Pick Place for PCB1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       02/11/21
+Time:       15:47
+Revision:   480f8cddf3a239e85edbfba113f99e4a7f379de3
+Variant:    No variations
+Units used: mil
+
+Designator Comment          Layer    Footprint               Center-X(mil) Center-Y(mil) Rotation Description                                                                                                      
+S1         NanEyeC          TopLayer NanEyeC                 2295.124      846.914       90       "Camera module NanEyeC from AMS"                                                                                 
+LED3       SML-LX0201NWD-TR TopLayer LEDC0604X46N            2283.596      930.381       0        LED                                                                                                              
+BT3        2988             TopLayer FP-2988-MFG             249.941       997.000       90       "BATTERY RETAINER COIN 7.9MM SMD"                                                                                
+BT2        2988             TopLayer FP-2988-MFG             249.941       396.000       90       "BATTERY RETAINER COIN 7.9MM SMD"                                                                                
+BT1        2988             TopLayer FP-2988-MFG             660.000       249.941       180      "BATTERY RETAINER COIN 7.9MM SMD"                                                                                
+J9         TSW-102-07-G-S   TopLayer FP-TSW-102-07-G-S-MFG   620.000       1025.000      270      "CONN HEADER VERT 2POS 2.54MM"                                                                                   
+J8         TSW-102-07-G-S   TopLayer FP-TSW-102-07-G-S-MFG   2470.128      847.753       270      "CONN HEADER VERT 2POS 2.54MM"                                                                                   
+J7         TSW-102-07-G-S   TopLayer FP-TSW-102-07-G-S-MFG   620.000       1305.000      90       "CONN HEADER VERT 2POS 2.54MM"                                                                                   
+J6         TSW-102-07-G-S   TopLayer FP-TSW-102-07-G-S-MFG   2020.136      845.000       270      "CONN HEADER VERT 2POS 2.54MM"                                                                                   
+J4         M20-9771046      TopLayer FP-M20-9771046-MFG      1475.000      145.000       0        "CONN HEADER VERT 10POS 2.54MM"                                                                                  
+R6         250              TopLayer RESC1608X50X30ML20T20   2212.598      661.417       180      ""                                                                                                               
+LED4       SML-LX0201NWD-TR TopLayer LEDC0604X46N            2283.464      763.779       0        LED                                                                                                              
+J5         M20-9771046      TopLayer FP-M20-9771046-MFG      1475.000      1830.000      180      "CONN HEADER VERT 10POS 2.54MM"                                                                                  
+C4         0.1uF_X5R_0603   TopLayer CAPC1608X90X35NL15T15   1929.134      1311.023      180      ""                                                                                                               
+C19        0.1uF_X5R_0603   TopLayer CAPC1608X90X35NL15T15   2055.118      1192.914      180      ""                                                                                                               
+C18        NC               TopLayer CAPC1608X90X35NL15T15   2055.118      1625.984      180      ""                                                                                                               
+C17        NC               TopLayer CAPC1608X90X35NL15T15   2055.118      1559.055      180      ""                                                                                                               
+C16        470nF            TopLayer CAPC1608X90X35NL15T15   2055.118      1492.126      180      ""                                                                                                               
+U1         LD59015C33R      TopLayer SOT323-5L-L036_L        840.748       1480.591      90       "150 mA Low Noise High PSRR linear Voltage Regulator, 3.3V, 5-Pin SOT-323, Tape and Reel"                        
+U4         ADG902BRMZ       TopLayer ADI-RM-8_L              2063.976      1340.552      90       "RF Switch, Wideband, 40 dB Isolation at 1 GHz, CMOS 1.65 V to 2.75 V, SPST Switches, RM-8, Pb-Free, 50 Tube"    
+U2         STLQ50C25R       TopLayer SOT323-5L_L             1870.079      1401.575      270      "50mA, 3µA Supply Current Low Drop Linear Regulator, 2.5V, 5-Pin SOT-323, Tape and Reel"                         
+U5         STM32L062K8T6    TopLayer STM-LQFP32_M            1744.094      862.205       90       "Ultra-Low-Power ARM Cortex-M0+ MCU, 64 KB Flash, 8 KB Internal RAM, 27 I/Os, 32-Pin LQFP, -40 to 85 degC, Tray" 
+R5         40               TopLayer RESC1608X50X30ML20T20   2389.999      257.499       180      ""                                                                                                               
+R4         40               TopLayer RESC1608X50X30ML20T20   2392.499      457.500       180      ""                                                                                                               
+R3         5k               TopLayer RESC1608X50X30ML20T20   2122.441      355.000       180      ""                                                                                                               
+R2         10k              TopLayer RESC1608X50X30ML20T20   2135.000      780.001       90       ""                                                                                                               
+R1         10k              TopLayer RESC1608X50X30ML20T20   2135.000      916.999       270      ""                                                                                                               
+Q1         BC847BW-7-F      TopLayer FP-SOT323-MFG           2247.987      394.259       90       "TRANS NPN 45V 0.1A SC70-3"                                                                                      
+P10        5-146280-2       TopLayer TECO-5-146280-2_V       2840.000      65.000        0        "Male Header, Pitch 2.54 mm, 1 x 2 Position, Height 8.21 mm, Tail Length 3.05 mm, -65 to 105 degC, RoHS, Bulk"   
+P9         5-146280-2       TopLayer TECO-5-146280-2_V       110.001       65.000        0        "Male Header, Pitch 2.54 mm, 1 x 2 Position, Height 8.21 mm, Tail Length 3.05 mm, -65 to 105 degC, RoHS, Bulk"   
+P8         5-146280-2       TopLayer TECO-5-146280-2_V       2835.000      1900.000      180      "Male Header, Pitch 2.54 mm, 1 x 2 Position, Height 8.21 mm, Tail Length 3.05 mm, -65 to 105 degC, RoHS, Bulk"   
+P7         5-146280-2       TopLayer TECO-5-146280-2_V       115.000       1900.000      180      "Male Header, Pitch 2.54 mm, 1 x 2 Position, Height 8.21 mm, Tail Length 3.05 mm, -65 to 105 degC, RoHS, Bulk"   
+P5         U.FL-R-SMT-1(01) TopLayer HRS-U.FL-R-SMT-3_V      2228.346      1637.357      180      "Ultra Small Coaxial Connector, 6 GHz, -40 to 90 degC, 3-Pin SMD, RoHS, Bulk"                                    
+P4         U.FL-R-SMT-1(01) TopLayer HRS-U.FL-R-SMT-3_V      2228.347      1313.485      180      "Ultra Small Coaxial Connector, 6 GHz, -40 to 90 degC, 3-Pin SMD, RoHS, Bulk"                                    
+P1         FTSH-105-01-L-DV TopLayer SMTC-FTSH-105-01-L-DV_V 1307.086      1228.346      270      "Male Header, Pitch 1.27 mm, 2 x 5 Position, Height 5.96 mm, -55 to 125 degC, RoHS, Bulk"                        
+LED2       IN-S85AT5UW      TopLayer INS85AT5UW              2605.000      257.499       180      LED                                                                                                              
+LED1       IN-S85AT5UW      TopLayer INS85AT5UW              2605.000      457.500       180      LED                                                                                                              
+L1         CB2012T101K      TopLayer FP-CB2012-MFG           1692.913      468.504       0        "SMD Inductors 100uH ±10% 0.13A 9.1O 0805"                                                                       
+J1         1757242          TopLayer FP-1757242-MFG          430.000       1550.000      270      "TERM BLOCK HDR 2POS 90DEG 5.08MM"                                                                               
+C15        10uF             TopLayer CAPC1608X90X35NL15T15   1787.402      605.315       180      ""                                                                                                               
+C14        100nF            TopLayer CAPC1608X90X35NL15T15   1787.401      543.307       180      ""                                                                                                               
+C13        100nF            TopLayer CAPC1608X90X35NL15T15   1887.795      1122.047      180      ""                                                                                                               
+C12        100nF            TopLayer CAPC1608X90X35NL15T15   1596.457      606.299       0        ""                                                                                                               
+C11        0.1uF            TopLayer CAPC1608X90X35NL15T15   1596.457      543.307       0        ""                                                                                                               
+C10        100nF            TopLayer CAPC1608X90X35NL15T15   1483.692      1089.835      90       ""                                                                                                               
+C9         470nF            TopLayer CAPC1608X90X35NL15T15   2208.000      780.000       90       ""                                                                                                               
+C8         470nF            TopLayer CAPC1608X90X35NL15T15   2358.900      846.914       90       ""                                                                                                               
+C7         470nF            TopLayer CAPC1608X90X35NL15T15   2208.000      917.000       270      ""                                                                                                               
+C6         0.1uF_X5R_0603   TopLayer CAPC1608X90X35NL15T15   840.748       1568.700      180      ""                                                                                                               
+C5         0.1uF_X5R_0603   TopLayer CAPC1608X90X35NL15T15   823.032       1388.228      180      ""                                                                                                               
+C3         0.1uF_X5R_0603   TopLayer CAPC1608X90X35NL15T15   1805.118      1311.024      0        ""                                                                                                               
