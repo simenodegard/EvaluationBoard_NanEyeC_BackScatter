@@ -4,9 +4,9 @@ C:\Users\Simen\OneDrive\Documents\NTNU\V2021\PillCam\Master\Altium\EvaluationBoa
 ========================================================================================================================
 File Design Information:
 
-Date:       02/11/21
-Time:       16:02
-Revision:   480f8cddf3a239e85edbfba113f99e4a7f379de3
+Date:       03/11/21
+Time:       13:03
+Revision:   1eec15cf3d0bc52b4786045ad255ba12bca7c2ef
 Variant:    No variations
 Units used: mil
 
@@ -21,7 +21,7 @@ Units used: mil
 "J7","TSW-102-07-G-S","TopLayer","FP-TSW-102-07-G-S-MFG","620.000","1305.000","90","CONN HEADER VERT 2POS 2.54MM"
 "J6","TSW-102-07-G-S","TopLayer","FP-TSW-102-07-G-S-MFG","2020.136","845.000","270","CONN HEADER VERT 2POS 2.54MM"
 "J4","M20-9771046","TopLayer","FP-M20-9771046-MFG","1475.000","145.000","0","CONN HEADER VERT 10POS 2.54MM"
-"R6","250","TopLayer","RESC1608X50X30ML20T20","2212.598","661.417","180",""
+"R6","125","TopLayer","RESC1608X50X30ML20T20","2212.598","661.417","180",""
 "LED4","SML-LX0201NWD-TR","TopLayer","LEDC0604X46N","2283.464","763.779","0","LED"
 "J5","M20-9771046","TopLayer","FP-M20-9771046-MFG","1475.000","1830.000","180","CONN HEADER VERT 10POS 2.54MM"
 "C4","0.1uF_X5R_0603","TopLayer","CAPC1608X90X35NL15T15","1929.134","1311.023","180",""
