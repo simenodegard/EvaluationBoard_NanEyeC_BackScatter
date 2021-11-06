@@ -4,25 +4,27 @@ C:\Users\Simen\OneDrive\Documents\NTNU\V2021\PillCam\Master\Altium\EvaluationBoa
 ========================================================================================================================
 File Design Information:
 
-Date:       03/11/21
-Time:       13:03
-Revision:   1eec15cf3d0bc52b4786045ad255ba12bca7c2ef
+Date:       05/11/21
+Time:       16:38
+Revision:   284a168a1740b5dae980148499a1ff54fa8e8dfe
 Variant:    No variations
 Units used: mil
 
 "Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
-"S1","NanEyeC","TopLayer","NanEyeC","2295.124","846.914","90","Camera module NanEyeC from AMS"
-"LED3","SML-LX0201NWD-TR","TopLayer","LEDC0604X46N","2283.596","930.381","0","LED"
+"R6","125R","TopLayer","RESC1608X50X30ML20T20","2409.303","653.267","180",""
+"R8","24R","TopLayer","RESC1608X50X30ML20T20","2222.000","889.440","0",""
+"R7","24R","TopLayer","RESC1608X50X30ML20T20","2220.769","795.560","0",""
+"S1","NanEyeC","TopLayer","NanEyeC","2415.797","844.623","0","Camera module NanEyeC from AMS. The Part will be delivered by us"
+"LED3","SML-LX0201NWD-TR","TopLayer","LEDC0604X46N","2422.000","926.504","0","LED"
 "BT3","2988","TopLayer","FP-2988-MFG","249.941","997.000","90","BATTERY RETAINER COIN 7.9MM SMD"
 "BT2","2988","TopLayer","FP-2988-MFG","249.941","396.000","90","BATTERY RETAINER COIN 7.9MM SMD"
 "BT1","2988","TopLayer","FP-2988-MFG","660.000","249.941","180","BATTERY RETAINER COIN 7.9MM SMD"
 "J9","TSW-102-07-G-S","TopLayer","FP-TSW-102-07-G-S-MFG","620.000","1025.000","270","CONN HEADER VERT 2POS 2.54MM"
-"J8","TSW-102-07-G-S","TopLayer","FP-TSW-102-07-G-S-MFG","2470.128","847.753","270","CONN HEADER VERT 2POS 2.54MM"
+"J8","TSW-102-07-G-S","TopLayer","FP-TSW-102-07-G-S-MFG","2590.800","843.876","270","CONN HEADER VERT 2POS 2.54MM"
 "J7","TSW-102-07-G-S","TopLayer","FP-TSW-102-07-G-S-MFG","620.000","1305.000","90","CONN HEADER VERT 2POS 2.54MM"
-"J6","TSW-102-07-G-S","TopLayer","FP-TSW-102-07-G-S-MFG","2020.136","845.000","270","CONN HEADER VERT 2POS 2.54MM"
+"J6","TSW-102-07-G-S","TopLayer","FP-TSW-102-07-G-S-MFG","2020.000","845.000","270","CONN HEADER VERT 2POS 2.54MM"
 "J4","M20-9771046","TopLayer","FP-M20-9771046-MFG","1475.000","145.000","0","CONN HEADER VERT 10POS 2.54MM"
-"R6","125","TopLayer","RESC1608X50X30ML20T20","2212.598","661.417","180",""
-"LED4","SML-LX0201NWD-TR","TopLayer","LEDC0604X46N","2283.464","763.779","0","LED"
+"LED4","SML-LX0201NWD-TR","TopLayer","LEDC0604X46N","2422.000","759.903","0","LED"
 "J5","M20-9771046","TopLayer","FP-M20-9771046-MFG","1475.000","1830.000","180","CONN HEADER VERT 10POS 2.54MM"
 "C4","0.1uF_X5R_0603","TopLayer","CAPC1608X90X35NL15T15","1929.134","1311.023","180",""
 "C19","0.1uF_X5R_0603","TopLayer","CAPC1608X90X35NL15T15","2055.118","1192.914","180",""
@@ -33,11 +35,11 @@ Units used: mil
 "U4","ADG902BRMZ","TopLayer","ADI-RM-8_L","2063.976","1340.552","90","RF Switch, Wideband, 40 dB Isolation at 1 GHz, CMOS 1.65 V to 2.75 V, SPST Switches, RM-8, Pb-Free, 50 Tube"
 "U2","STLQ50C25R","TopLayer","SOT323-5L_L","1870.079","1401.575","270","50mA, 3µA Supply Current Low Drop Linear Regulator, 2.5V, 5-Pin SOT-323, Tape and Reel"
 "U5","STM32L062K8T6","TopLayer","STM-LQFP32_M","1744.094","862.205","90","Ultra-Low-Power ARM Cortex-M0+ MCU, 64 KB Flash, 8 KB Internal RAM, 27 I/Os, 32-Pin LQFP, -40 to 85 degC, Tray"
-"R5","40","TopLayer","RESC1608X50X30ML20T20","2389.999","257.499","180",""
-"R4","40","TopLayer","RESC1608X50X30ML20T20","2392.499","457.500","180",""
+"R5","40R","TopLayer","RESC1608X50X30ML20T20","2389.999","257.499","180",""
+"R4","40R","TopLayer","RESC1608X50X30ML20T20","2392.499","457.500","180",""
 "R3","5k","TopLayer","RESC1608X50X30ML20T20","2122.441","355.000","180",""
-"R2","10k","TopLayer","RESC1608X50X30ML20T20","2135.000","780.001","90",""
-"R1","10k","TopLayer","RESC1608X50X30ML20T20","2135.000","916.999","270",""
+"R2","10k","TopLayer","RESC1608X50X30ML20T20","2122.000","916.999","270",""
+"R1","10k","TopLayer","RESC1608X50X30ML20T20","2122.000","768.001","90",""
 "Q1","BC847BW-7-F","TopLayer","FP-SOT323-MFG","2247.987","394.259","90","TRANS NPN 45V 0.1A SC70-3"
 "P10","5-146280-2","TopLayer","TECO-5-146280-2_V","2840.000","65.000","0","Male Header, Pitch 2.54 mm, 1 x 2 Position, Height 8.21 mm, Tail Length 3.05 mm, -65 to 105 degC, RoHS, Bulk"
 "P9","5-146280-2","TopLayer","TECO-5-146280-2_V","110.001","65.000","0","Male Header, Pitch 2.54 mm, 1 x 2 Position, Height 8.21 mm, Tail Length 3.05 mm, -65 to 105 degC, RoHS, Bulk"
@@ -56,9 +58,9 @@ Units used: mil
 "C12","100nF","TopLayer","CAPC1608X90X35NL15T15","1596.457","606.299","0",""
 "C11","0.1uF","TopLayer","CAPC1608X90X35NL15T15","1596.457","543.307","0",""
 "C10","100nF","TopLayer","CAPC1608X90X35NL15T15","1483.692","1089.835","90",""
-"C9","470nF","TopLayer","CAPC1608X90X35NL15T15","2208.000","780.000","90",""
-"C8","470nF","TopLayer","CAPC1608X90X35NL15T15","2358.900","846.914","90",""
-"C7","470nF","TopLayer","CAPC1608X90X35NL15T15","2208.000","917.000","270",""
+"C9","15pF","TopLayer","CAPC1608X90X35NL15T15","2322.000","917.000","270",""
+"C8","470nF","TopLayer","CAPC1608X90X35NL15T15","2479.571","843.038","270",""
+"C7","15pF","TopLayer","CAPC1608X90X35NL15T15","2320.601","768.000","90",""
 "C6","0.1uF_X5R_0603","TopLayer","CAPC1608X90X35NL15T15","840.748","1568.700","180",""
 "C5","0.1uF_X5R_0603","TopLayer","CAPC1608X90X35NL15T15","823.032","1388.228","180",""
 "C3","0.1uF_X5R_0603","TopLayer","CAPC1608X90X35NL15T15","1805.118","1311.024","0",""
